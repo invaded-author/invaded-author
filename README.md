@@ -7,6 +7,8 @@
   </a>
 </p>
 
+<img src="aryan.png" alt="Banner" width="100%" />
+
 ## 📌 About Me
 - Cybersecurity enthusiast & developer focused on building secure, intelligent systems.
 - At 19, I’ve worked on real-world security investigations, engineered AI-based tools, and built automation systems that solve practical problems. I specialize in Python, Linux (Red Hat), network security, and ethical hacking, combining academic knowledge with hands-on execution.
